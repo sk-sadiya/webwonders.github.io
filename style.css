@@ -458,7 +458,7 @@ background: #606060;
 
 /* ****MEDIA QUERIES ***** */
 @media(max-width : 768px){
-  
+
 
   .pricing, .customer-review{
     height: auto;
